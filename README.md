@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>weak hero</title>
+    <link rel="stylesheet" type="text/css" href="exercice.css" />
+
+
+
+
+
+
+</head>
+<body>
+     <a href="https://fr.wikipedia.org/wiki/H%C3%A9ros_fragile">
+         <img class="img-logo" src="./Hero_fragile_logo.png" />
+    </a>
+    <h2>1. présentation de la série</h2>
+
+    <p>
+        <strong>héros fragile</strong>, aussi appelée <em>Weak Hero Class 1</em>, est une série coréenne.
+        Elle se déroule dans un lycée et traite principalement de la violence scolaire.
+        La série montre un environnement dur où les élèves les plus faibles sont souvent victimes de harcèlement.
+    </p>
+
+    <h2>2. le personnage principal : Yeon Si-eun</h2>
+    <img class="img-sieun" src="C:/Users/Ableton portable/Downloads/projet/projet\yeon sieun.jpg" />
+    <p>
+      Yeon Si-eun est un élève très intelligent mais physiquement faible.
+        Il est discret, solitaire et ne cherche pas les conflits.
+        Contrairement aux héros classiques, il ne possède pas une grande force physique.
+    </p>
+
+    <h2>3. Pourquoi Yeon Si-eun est un héros fragile</h2>
+
+    <ul>
+      <li>Il est physiquement plus faible que ses adversaires</li>
+        <li>Il subit la violence scolaire</li>
+        <li>Il doute et souffre psychologiquement</li>
+        <li>Il utilise son intelligence et sa stratégie pour se défendre</li>
+    </ul>
+
+     <h2>4. Les thèmes abordés dans la série</h2>
+    <ul>
+        <li>La violence et le harcèlement scolaire</li>
+        <li>La solitude</li>
+        <li>L’amitié</li>
+        <li>La pression sociale</li>
+        <li>La survie dans un environnement injuste</li>
+    </ul>
+
+    <h2>5. Un héros différent</h2>
+    <p>
+        La série montre un nouveau type de héros : un héros fragile.
+        Yeon Si-eun n’est pas invincible, il peut perdre et souffrir,
+        mais il continue à se battre avec son esprit et sa détermination.
+    </p>
+
+    <h2>6. Conclusion</h2>
+    <p>
+        Dans <strong>Héros Fragile</strong>, le héros est fragile mais courageux.
+        La série montre que la vraie force ne vient pas seulement des muscles,
+        mais aussi de l’intelligence, du mental et de la persévérance.
+    </p>
+
+
+
+    
+         
+</body>
+</html>
