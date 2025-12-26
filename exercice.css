@@ -1,0 +1,59 @@
+h1 {
+   font-family: "Dancing Script", cursive;
+   font-size: 60px;
+   text-align: center;
+}
+
+h2 {
+   font-family: "Dancing Script", cursive;
+   font-size: 30px;
+   text-align: center;
+}
+
+html {
+  background-color: #ffffff;
+
+}
+
+body {
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #a00606;
+  padding: 0 20px 20px 20px;
+  border: 10px solid black;
+}
+
+p {
+  font-family: "Dancing Script", cursive;
+}
+
+.img-logo {
+   display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+.images {
+  display: flex;
+  gap: 10px;
+}
+
+.images .personnage {
+  width: 30%;
+  height: auto;
+}
+
+.images a img {
+  border: 3px solid red;
+}
+
+.img-sieun {
+   display: block;
+  margin: 0 auto;
+  max-width: 25%;
+}
+
+li {
+   font-family: "Dancing Script", cursive;
+   font-size: 20px;
+}
